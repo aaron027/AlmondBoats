@@ -1,2 +1,2 @@
 # AlmondBoats
-INFT6900 Almond Boats project
+ Almond Boats project
